@@ -8,7 +8,7 @@ DHL Supply Chain, the world's leading logistics provider, required an effective 
 ### About DHL Supply Chain
 DHL Supply Chain, part of the DHL Group, is the world's leading logistics provider. Combining management and value-added services with our customized, integrated logistics solutions drives resilience, efficiency, improves quality and creates competitive advantage.
 
-2. Data Loading and Preparation Process:
+## 2. Data Loading and Preparation Process:
  
 Data Sources: Loaded multiple CSV files in Tableau.
 Data Cleaning: Removed duplicates, handled null values, and standardized formats across datasets.
@@ -32,7 +32,9 @@ Bussiness needs to track the following KPIs
 Revenue
 Product Sold
 Stock Level/skus
+ Track Availability of Product
 
-3. Track Availability of Products
-4. Master Analysis Table
+4. Master Analysis Table : A comprehensive data table that consolidates multiple KPIs and metrics, allowing for deep-dive analysis across product categories, regions, and time periods. This table will serve as a central reference for analyzing trends and making data-driven decisions.
+
+
 
